@@ -1,0 +1,2 @@
+# Snakes-and-Ladders-Game-by-using-Core-Java
+This is quite simple game designed with core java. In this, the players will roll the dices and according to the dice number, the players will move. In this some ladders helps user to reach the destination in shortcut methods and some snakes will be there it decrease score so that the player should start from the tail of snake. According to the players performance the progress bar will be shown. Once the players reach the destination the game is completed successfully.
